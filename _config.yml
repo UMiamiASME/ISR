@@ -51,6 +51,11 @@ social:
   #forumbee:
   #tripadvisor:
   #amazon:
+  
+pages:
+  google:
+    title: 'Butts'
+    baseurl: 'butts.html'
 
 # Build settings
 markdown: kramdown
