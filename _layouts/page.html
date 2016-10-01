@@ -7,7 +7,7 @@ layout: default
     <h2>{{ page.title }}</h2>
     <p>
       {% if page.subtitle %}
-      {{ page.subtitle }}
+      {{ page.subtitle | markdownify }}
       {% else %}
       Contact us at hurricane.asme@gmail.com with any questions.
       {% endif %}
