@@ -563,11 +563,11 @@ $baseurl: '{{ site.baseurl }}/images';
 	ul {
 		list-style: disc;
 		margin: 0 0 _size(element-margin) 0;
-		padding-left: 1em;
+		/* padding-left: 1em; 
 
 		li {
 			padding-left: 0.5em;
-		}
+		} */
 
 		&.alt {
 			list-style: none;
