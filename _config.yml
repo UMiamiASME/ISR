@@ -3,7 +3,7 @@
 
 # Site settings
 title: "International Submarine Races"
-description: <img src='/images/coe.png' id="logo" height="50%" width="50%"
+description: ![University of Miami](images/coe.png)
 owner: UMiami ASME # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: hurricane.asme@gmail.com
