@@ -4,7 +4,8 @@
 # Site settings
 title: International Submarine Races
 description: |
-  University of Miami  
+  <img src="https://cdn.miami.edu/_assets-common/images/system/um-print-logo.png">
+#  University of Miami  
   American Society of Mechanical Engineers  
 owner: Your Name # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
