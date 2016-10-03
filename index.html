@@ -97,8 +97,9 @@ The last time the University of Miami competed was in 1997. Their submarine, Mag
 								<p>Here is our tentative timeline<br />
 								as we countdown to June 23rd!</p>
 								<div class="countdown" style="display: inline-block"></div>
-							<script> 
-							  var target = new Date(2017, 6, 25);
+							<script>
+							  /* month begin at 0 in js for some hitherto unknown reason */
+							  var target = new Date(2017, 5, 25);
 							  var now = new Date();
 								
 							  var diff = (target - now) / 1000;
